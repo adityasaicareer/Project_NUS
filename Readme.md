@@ -13,8 +13,10 @@ This Project involves in building the Object detectio model that detect wether t
  * SAfetycone
 
 ## Dataset:
-[link text] https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow
+https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow
 
 ## Trained-Model(.pth file)
 
-[link text] https://drive.google.com/file/d/13W07as1zI4Ah_GHgut-r848Kt5yGadSC/view?usp=share_link
+https://drive.google.com/file/d/13W07as1zI4Ah_GHgut-r848Kt5yGadSC/view?usp=share_link
+
+<img width="1226" alt="Screenshot 2025-06-03 at 3 32 01 PM" src="https://github.com/user-attachments/assets/3f908383-7922-4010-bda7-8842658d7920" />
