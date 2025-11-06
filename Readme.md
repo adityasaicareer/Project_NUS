@@ -3,7 +3,7 @@
 This Project involves in building the Object detectio model that detect wether the Employees at the construction site having SAfety equipment such as:
 
 * Helmet
-* SAfety vest
+* Safety vest
 * Mask
 
 #### Additionally this model is capable of detecting 
